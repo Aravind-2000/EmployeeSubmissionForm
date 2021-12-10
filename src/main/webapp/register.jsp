@@ -19,7 +19,6 @@
 </div>
 <div class="form-container">
 <form action="registered" onsubmit="success()"  method="post">
-
 	<h3> Register Here</h3>
 		<label>  <b> Employee ID : </b> <input type="text" name="eid" id="id" placeholder="Enter Employee's ID" required> <br> <br> </label>
 		<label> <b>  Employee First Name : </b> <input type="text" name="first_name" style="font-family: 'Poppins', 'sans-serif';
